@@ -1,0 +1,107 @@
+
+
+01/19/17 09:41 pm
+	====> NEW REQUEST
+01/19/17 09:41 pm
+	COMMAND RECEIVED: 
+	Incoming data:
+	Array
+(
+)
+
+01/19/17 09:41 pm
+	====> NEW REQUEST
+01/19/17 09:41 pm
+	COMMAND RECEIVED: 
+	Incoming data:
+	Array
+(
+)
+
+01/19/17 09:41 pm
+	====> NEW REQUEST
+01/19/17 09:41 pm
+	COMMAND RECEIVED: 
+	Incoming data:
+	Array
+(
+)
+
+01/19/17 09:43 pm
+	====> NEW REQUEST
+01/19/17 09:43 pm
+	COMMAND RECEIVED: 
+	Incoming data:
+	Array
+(
+)
+
+01/19/17 09:43 pm
+	====> NEW REQUEST
+01/19/17 09:43 pm
+	COMMAND RECEIVED: asdasdsa
+	Incoming data:
+	Array
+(
+    [text] => asdasdsa
+)
+
+01/19/17 09:43 pm
+	{"help":"getHelp","whatever":"whateverFunction"}
+01/19/17 09:43 pm
+	KEY DOES NOT EXIST
+01/19/17 09:43 pm
+	NOT CALLABLE
+01/19/17 09:43 pm
+	METHOD DOES NOT EXIST
+01/19/17 09:43 pm
+	====> NEW REQUEST
+01/19/17 09:43 pm
+	COMMAND RECEIVED: 
+	Incoming data:
+	Array
+(
+    [command] => getHelp
+)
+
+01/19/17 09:43 pm
+	====> NEW REQUEST
+01/19/17 09:43 pm
+	COMMAND RECEIVED: 
+	Incoming data:
+	Array
+(
+    [command] => getHelp
+)
+
+01/19/17 09:44 pm
+	====> NEW REQUEST
+01/19/17 09:44 pm
+	COMMAND RECEIVED: tyrone help
+	Incoming data:
+	Array
+(
+    [text] => tyrone help
+)
+
+01/19/17 09:44 pm
+	{"help":"getHelp","whatever":"whateverFunction"}
+01/19/17 09:44 pm
+	KEY DOES NOT EXIST
+01/19/17 09:44 pm
+	NOT CALLABLE
+01/19/17 09:44 pm
+	METHOD DOES NOT EXIST
+01/20/17 10:48 am
+	====> NEW REQUEST
+01/20/17 10:48 am
+	COMMAND RECEIVED: 
+	Incoming data:
+	Array
+(
+)
+
+12/04/17 12:25 am
+	MESSAGE:
+12/04/17 12:25 am
+	{"payload":"{\"type\":\"interactive_message\",\"actions\":[{\"name\":\"game\",\"type\":\"button\",\"value\":\"chess\"}],\"callback_id\":\"wopr_game\",\"team\":{\"id\":\"T043YAXDC\",\"domain\":\"d0m\"},\"channel\":{\"id\":\"D043YAXDG\",\"name\":\"directmessage\"},\"user\":{\"id\":\"U043YAXDE\",\"name\":\"dominik\"},\"action_ts\":\"1512347104.549361\",\"message_ts\":\"1512347005.000135\",\"attachment_id\":\"1\",\"token\":\"xByEWF7zpp1EpjCyJSC0Mopj\",\"is_app_unfurl\":false,\"original_message\":{\"text\":\"Would you like to play a game?\",\"username\":\"Justin Bot\",\"bot_id\":\"B8956RR6H\",\"attachments\":[{\"callback_id\":\"wopr_game\",\"fallback\":\"You are unable to choose a game\",\"text\":\"Choose a game to play\",\"id\":1,\"color\":\"3AA3E3\",\"actions\":[{\"id\":\"1\",\"name\":\"game\",\"text\":\"Chess\",\"type\":\"button\",\"value\":\"chess\",\"style\":\"\"},{\"id\":\"2\",\"name\":\"game\",\"text\":\"Falken's Maze\",\"type\":\"button\",\"value\":\"maze\",\"style\":\"\"},{\"id\":\"3\",\"name\":\"game\",\"text\":\"Thermonuclear War\",\"type\":\"button\",\"value\":\"war\",\"style\":\"danger\",\"confirm\":{\"text\":\"Wouldn't you prefer a good game of chess?\",\"title\":\"Are you sure?\",\"ok_text\":\"Yes\",\"dismiss_text\":\"No\"}}]}],\"type\":\"message\",\"subtype\":\"bot_message\",\"ts\":\"1512347005.000135\"},\"response_url\":\"https:\\\/\\\/hooks.slack.com\\\/actions\\\/T043YAXDC\\\/281186772405\\\/hUL1fQJZM1wGQU8N5m8xG1dm\",\"trigger_id\":\"281086466468.4134371454.882f79e0175b58f07b7e74c05952b79c\"}"}
